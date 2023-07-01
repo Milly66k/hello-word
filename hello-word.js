@@ -1,0 +1,2 @@
+console.log("Hello Word!")
+console.log("Muito Obrigada pela oportunidade incivél de esta estudando aqui na Cubos Academy, está sendo algo muito incrível, principalmente por ser a primeira turma formada somente por mulheres, estou amando muito essa experiência!!!")
